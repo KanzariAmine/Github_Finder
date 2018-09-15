@@ -1,0 +1,16 @@
+{
+  "name": "Github_Finder_API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d disc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://KanzariAmine.github.io/Github_Finder",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
